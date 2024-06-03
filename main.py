@@ -1,6 +1,4 @@
 import yt_dlp
-import os
-import threading
 import tkinter as tk
 from tkinter import ttk
 from PIL import ImageTk, Image
